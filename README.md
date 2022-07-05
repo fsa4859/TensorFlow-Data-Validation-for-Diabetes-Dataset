@@ -6,8 +6,7 @@ Link to Dataset:https://archive.ics.uci.edu/ml/datasets/diabetes
 
 **Exploaratory Data Analysis**
 
-![image](https://user-images.githubusercontent.com/69100847/177314445-0a802357-538c-4007-88dd-cf33fdecdd11.png)
-
+![image](https://user-images.githubusercontent.com/69100847/177314776-84ee65f8-2e82-4c40-b392-984f2c0b547c.png)
 
 **Installing TensorFlow Data Validation in Google Colab**
 
