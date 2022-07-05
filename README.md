@@ -16,3 +16,8 @@ Link to Dataset:https://archive.ics.uci.edu/ml/datasets/diabetes
 
 ![image](https://user-images.githubusercontent.com/69100847/177315049-842122e3-fd2e-49ca-a211-0bea9ee19222.png)
 
+**Schema Inference**
+
+![image](https://user-images.githubusercontent.com/69100847/177315208-c6fb97a8-a0e6-4355-bc9e-b9cca6fdab87.png)
+
+
