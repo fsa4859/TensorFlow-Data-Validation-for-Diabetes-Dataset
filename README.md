@@ -11,3 +11,8 @@ Link to Dataset:https://archive.ics.uci.edu/ml/datasets/diabetes
 **Installing TensorFlow Data Validation in Google Colab**
 
 ![image](https://user-images.githubusercontent.com/69100847/177314652-92a98b77-6975-4c64-92ce-0d6bfa01af02.png)
+
+**Generating and Visualizing Statistics from DataFrame using tfdv.generate_statistics_from_dataframe**
+
+![image](https://user-images.githubusercontent.com/69100847/177315049-842122e3-fd2e-49ca-a211-0bea9ee19222.png)
+
