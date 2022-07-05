@@ -6,5 +6,6 @@ Link to Dataset:https://archive.ics.uci.edu/ml/datasets/diabetes
 
 **Exploaratory Data Analysis**
 
-![image](https://user-images.githubusercontent.com/69100847/177314332-7697fc0e-7df4-404e-8ee6-ba97e22c2810.png)
+![image](https://user-images.githubusercontent.com/69100847/177314445-0a802357-538c-4007-88dd-cf33fdecdd11.png)
+
 
